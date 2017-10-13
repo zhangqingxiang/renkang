@@ -1,5 +1,7 @@
 <?php
+
 	//基于tp项目
+	define('APP_DEBUG',true);
 	//定义项目名称
 	define('APP_NAME', 'Renkang');
 	//定义项目路径
