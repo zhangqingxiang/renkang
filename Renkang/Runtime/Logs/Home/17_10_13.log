@@ -63,3 +63,153 @@ INFO: [ app_end ] --START--
 INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
 INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
 
+[ 2017-10-13T17:01:51+08:00 ] 39.109.124.40 /renkang.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-10-13T17:01:52+08:00 ] 39.109.124.40 /renkang.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-10-13T18:02:19+08:00 ] 39.109.124.40 /renkang.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-10-13T18:03:11+08:00 ] 39.109.124.40 /renkang.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-10-13T18:03:13+08:00 ] 39.109.124.40 /renkang.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-10-13T18:03:13+08:00 ] 39.109.124.40 /renkang.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000313s ]
+
+[ 2017-10-13T18:04:31+08:00 ] 39.109.124.40 /renkang.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-10-13T19:24:45+08:00 ] 39.109.124.40 /renkang.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-10-13T19:32:35+08:00 ] 39.109.124.40 /renkang.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-10-13T21:18:57+08:00 ] 39.109.124.40 /renkang.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000337s ]
+
