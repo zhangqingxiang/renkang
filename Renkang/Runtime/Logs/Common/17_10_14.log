@@ -1,0 +1,12 @@
+[ 2017-10-14T16:23:50+08:00 ] 39.109.124.40 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+ERR: 无法加载模块:Index
+
+[ 2017-10-14T16:32:22+08:00 ] 39.109.124.40 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+ERR: 无法加载模块:Index
+

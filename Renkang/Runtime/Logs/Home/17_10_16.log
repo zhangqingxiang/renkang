@@ -1,0 +1,962 @@
+[ 2017-10-16T00:29:16+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=ad43ec4a98c24edf6c7360392f38f9a9938e5e6d&timestamp=1508084955&nonce=1127311555&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=060c2f04568dc3aeb9c95ff8967aa8425febcc6d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-10-16T00:29:57+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=57368ab85010a7a93d16944b79242e6cfad2a424&timestamp=1508084996&nonce=1810110905&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=18fdd1572881de55e7b091ed02a8d75643f9c9ac
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-10-16T00:31:30+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=b5c4a259b5839c80fd6e9f15d19f36ccf39b4f28&timestamp=1508085090&nonce=1485945081&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=c2c9fedf86ce8639a33006a18bc4940aace9eaac
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-10-16T00:31:55+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=1cde5dbfc0774e3d51e3a0bbf80ef41f74819403&timestamp=1508085114&nonce=1036107080&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=e4ed466d694519e5f740d93aa36c7306646d5129
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-10-16T00:35:09+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=20f02a8875292f9b646b6581a3588b7a8394d227&timestamp=1508085308&nonce=2101552212&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=686e7fd26cc7e83f5177833788e71db4cfeef4f6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-10-16T00:38:55+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=273113b9ca86666d94691bbd0f3cc0bd6433ac98&timestamp=1508085535&nonce=1748364135&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=ec6dd012061fb8c477923a4fb678041846563b59
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-10-16T00:39:02+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=da3d81112a437d0729d919c6e410490968f57ca1&timestamp=1508085542&nonce=1371933388&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=a8a5d88c8b1e1bbcc9e9e0ad81e705dbf86a65f4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-10-16T00:39:19+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=68d69cf5ef07e77a9d04bba77154a9bbda53e7fc&timestamp=1508085558&nonce=1141577257&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=b14924eb6eee305471b19e10d6191cda2528f067
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-10-16T00:41:22+08:00 ] 103.7.30.106 /renkang.php/Index/index?signature=41541f1e2b92890eeb1c28761c773040ffd699b6&echostr=16886063918822715315&timestamp=1508085682&nonce=3989385057
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-10-16T00:41:26+08:00 ] 103.7.30.106 /renkang.php/Index/index?signature=e27cf941ad5b8161d286e2aa0acc15c3af30bd20&echostr=12022493420240752565&timestamp=1508085685&nonce=3969209383
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-10-16T00:41:28+08:00 ] 103.7.30.106 /renkang.php/Index/index?signature=33632aa79467eb8385251ae2791943c9613a5564&echostr=2254511356896333753&timestamp=1508085688&nonce=2809473318
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-10-16T00:41:33+08:00 ] 103.7.30.106 /renkang.php/Index/index?signature=3e2263fa12d0aa9a8bb143dce8bb450436419935&echostr=8792578527744491518&timestamp=1508085692&nonce=26687970
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-10-16T00:41:36+08:00 ] 103.7.30.106 /renkang.php/Index/index?signature=e52cfa2789d744ed3386685017a785b7146375ed&echostr=1378649079205580799&timestamp=1508085695&nonce=3925858576
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+
+[ 2017-10-16T00:41:38+08:00 ] 103.7.30.106 /renkang.php/Index/index?signature=c9615ea87024213cbf5def64081a9db6742f2b34&echostr=13227290380120084451&timestamp=1508085698&nonce=3507466348
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-10-16T00:42:15+08:00 ] 103.7.30.106 /renkang.php/Index/index?signature=370a511fb113ad1d8903c42df68a603196b4c3b0&echostr=17304591077971587047&timestamp=1508085734&nonce=671666649
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-10-16T00:42:30+08:00 ] 103.7.30.106 /renkang.php/Index/index?signature=8c511e5698cbf3dd2f964431de05f53fa95b776f&echostr=2341544875467993079&timestamp=1508085749&nonce=4067795897
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-10-16T00:42:35+08:00 ] 103.7.30.106 /renkang.php/Index/index?signature=7664c69c602368d3f4c9412820590ffdd542e523&echostr=1570974228816572410&timestamp=1508085754&nonce=2918455280
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-10-16T00:42:38+08:00 ] 103.7.30.106 /renkang.php/Index/index?signature=216df6521a243b3ff215feee57b498edf34ee2ff&echostr=4324629231316733951&timestamp=1508085757&nonce=740785252
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-10-16T00:43:07+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-10-16T00:43:32+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+
+[ 2017-10-16T00:44:21+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-10-16T00:44:26+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-10-16T00:44:30+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-10-16T00:44:59+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-10-16T00:45:36+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=f6d92c069dfc7ec8f8b33deddab5a4dc11d24dd7&timestamp=1508085936&nonce=129026137&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=e29fc972fcc580186f9e9a497c043b87a55c44b3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-10-16T00:45:41+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=165b97376e8e4b2e1ab1f367cb2b77205791dfc5&timestamp=1508085940&nonce=1401743343&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=1e90e042c843adc1d02bc5b97aafbe390c12d61d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-10-16T00:46:07+08:00 ] 103.7.30.106 /renkang.php/Index/index?signature=98aa2284270c3ae6dc7f5ac9b4fa218c2d9c8318&echostr=13174683051683454686&timestamp=1508085966&nonce=1262176677
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+
+[ 2017-10-16T00:46:49+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-10-16T00:46:53+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-10-16T00:47:07+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-10-16T00:47:27+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-10-16T00:47:27+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-10-16T00:47:34+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=1e2c890c095d125c24d664fc8de8c563a8af1d03&timestamp=1508086054&nonce=622239228&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=bc12d874f0cce6595749fedb13998908a6b2a1d1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-10-16T00:47:38+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=a48ce45c2523cf4f9a46066627b71438e1e8dfb5&timestamp=1508086057&nonce=1597582978&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=66846561a665f66e1ae9409f20e60bda60334ce1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-10-16T00:49:24+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=c0fb4ed4f18b816184a0b5707fd61a39d94eb442&timestamp=1508086164&nonce=1842273992&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=445443352874deed7a4f9200524ab258a5fad26b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-10-16T00:49:28+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=6ef1bae422a956668dc8ce45b6e5f5a500ede5c9&timestamp=1508086167&nonce=164464143&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=2aa1fa3bd2d904bca6479d50edbe97b7ce582b62
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-10-16T00:51:35+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=2abf778f5baa0278039bf27eee7975bb5a33c03a&timestamp=1508086295&nonce=234528573&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=f8d8315f4bf5753cd6e8e1443a6bce665c4e1d1f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2017-10-16T00:51:39+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=11fa052042b0937b920040f6c5480e3e4062802c&timestamp=1508086298&nonce=1055370368&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=06bcc87a5f733213c8ce15347d9210e5c2a5f3d0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2017-10-16T00:52:23+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=6c12764e24a8eea62fa3f5f2b5e6a389ff9de863&timestamp=1508086343&nonce=705860078&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=e8fe9612dce712d31cb13a97847a665f2ad9ae40
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-10-16T00:54:27+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=cc3f98e4472e6a3adb2731590797d7ff551e0fed&timestamp=1508086466&nonce=353477337&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=2534cd46b7b00d85af2a433b2fedd9a1a95b42f3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-10-16T00:54:30+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=6d329afb0ff8b15f029ea784561e3d54cd20ab98&timestamp=1508086470&nonce=152100468&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=4341323296be27ea166ff0f6b89bdeae1ebed5a7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-10-16T00:55:08+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=4e745cfce3b58670170886652ddb82038632af45&timestamp=1508086507&nonce=138828821&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=9f4fd38c7ced83a191607edfebd8f4da57aa1923
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-10-16T00:55:12+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=54532508079e456eb006cbdf44e8246977870f2e&timestamp=1508086511&nonce=1270866748&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=91e4f988bfd3a078afceb68f0816f3090aeda668
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-10-16T00:58:19+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-10-16T00:58:21+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-10-16T00:58:22+08:00 ] 220.152.244.87 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-10-16T01:01:00+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=903aa8f175c1532b911d73a0b7b6135080bfec64&timestamp=1508086859&nonce=866642145&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=b7160c09df7ee176119731a944e978450f59d5a3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-10-16T01:01:15+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=8811321758768d040828f2b4ee23978b7baaf410&timestamp=1508086874&nonce=1532537280&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=723f8e694eee1f0f99496b75af91b7d7abfd88b9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-10-16T19:41:09+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=50e41bc1dc6b0049e58a327bf4961a4e8ef97358&timestamp=1508154068&nonce=547449758&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=bb327a838d55115788066ba18169aa7e997bb567
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2017-10-16T19:41:22+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=ae94e842882516b1ae8b88a9221922afd8beac46&timestamp=1508154081&nonce=1984379101&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=c7d460f194c802f90e3b06bf7681806cf882a196
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-10-16T19:44:21+08:00 ] 39.109.124.40 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-10-16T19:44:58+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=446452f7143911386552de3652e37702ad96f42d&timestamp=1508154298&nonce=633834694&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=eaf66dd6e079578b4d5f7c8cd35346967573e2a7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-10-16T19:45:10+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=03d198898531245e8284774015ded8061ec9bac4&timestamp=1508154310&nonce=1851798148&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=2990eef8577daa976b40377df2fca0e49f38f1d9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2017-10-16T19:50:10+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=c1819ef0ef88979276bd6586d233f9522fdedd47&timestamp=1508154609&nonce=2040121611&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=f7f13c52729b8898dcfa497d4fe539cd18010cfe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-10-16T19:50:27+08:00 ] 103.7.30.69 /renkang.php/Index/index?signature=24acdb0f15741f3da41e54263aa88c6bf599f0f6&timestamp=1508154627&nonce=150924224&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=d31071c474cc65319f0bf8720ca8c74903242a6b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-10-16T19:54:56+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=60fc0da563cb08d7b025ead7bc6aeb489dabda6e&timestamp=1508154896&nonce=1546983783&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=ee5790764da0ca416f3b1e01290d3e7e84c10360
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-10-16T20:00:38+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=74fee17a597cf0cc138a4d3ddc82f4282464ec96&timestamp=1508155237&nonce=249200128&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=6e27cab68ddbad0c9fb7188fc41d670c6e1d4b28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-10-16T20:04:46+08:00 ] 103.7.30.70 /renkang.php/Index/index?signature=ded3a7dbc0309dedc4bdfb9620753941171c3c10&timestamp=1508155485&nonce=527172030&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=c428515a94957b55f14db7ca35a4a9f4e2ab528b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-10-16T23:27:13+08:00 ] 103.7.30.105 /renkang.php/Index/index?signature=0811c12219bd1f9f8d981ab2aadeb1dfc935bcd2&echostr=11328597584809684953&timestamp=1508167632&nonce=1411498
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-10-16T23:35:53+08:00 ] 101.233.46.59 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-10-16T23:39:14+08:00 ] 101.226.233.149 /renkang.php/Index/index?signature=0817c7fd945d740a5b12d34e56bb14d5fb0e8d2e&timestamp=1508168354&nonce=1969663355&encrypt_type=aes&msg_signature=72c2c9b0de66a1e5a3a080813657a65813616cae
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-10-16T23:41:05+08:00 ] 101.226.233.151 /renkang.php/Index/index?signature=539c9a11f48a13530540aa0175be7882ac035cb6&timestamp=1508168465&nonce=1141745910&encrypt_type=aes&msg_signature=5dc901dda66f0e7aed51b8135ed0bccfc1b94970
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-10-16T23:41:06+08:00 ] 101.226.233.147 /renkang.php/Index/index?signature=4766c21ca4cc06583f0037662348eb6e751d04e4&timestamp=1508168466&nonce=2128779030&encrypt_type=aes&msg_signature=b0a41a8d02dd24bd4a18fb5a9cbe8bf4883b4780
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-10-16T23:41:33+08:00 ] 101.226.233.149 /renkang.php/Index/index?signature=f48f403a8e8000627cf92c71e04ec4dceb80db21&timestamp=1508168493&nonce=1698207330&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=b01cd620a11ac7b6fdfb4e095e9b827288b301fd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 38 行.
+NOTIC: [2] simplexml_load_string(): {&quot;URL&quot;:&quot;http://39.108.177.237/renkang.php/Index/index&quot;,&quot;ToUserName&quot;:&quot;zhang_timso /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 38 行.
+NOTIC: [2] simplexml_load_string(): ^ /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-10-16T23:42:00+08:00 ] 101.226.233.152 /renkang.php/Index/index?signature=a5956d5968c430481d879acccb337588ca25bfdf&timestamp=1508168520&nonce=2086980287&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=8e29ef8699383cb3085962f80967fdca8f754abd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 38 行.
+NOTIC: [2] simplexml_load_string(): {&quot;URL&quot;:&quot;http://39.108.177.237/renkang.php/Index/index&quot;,&quot;ToUserName&quot;:&quot;zhang_timso /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 38 行.
+NOTIC: [2] simplexml_load_string(): ^ /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-10-16T23:42:10+08:00 ] 101.226.233.151 /renkang.php/Index/index?signature=6055bf527b888c0df84202ee6a3c7149b41bfb83&timestamp=1508168530&nonce=717147977&encrypt_type=aes&msg_signature=ce80df9fc70660b1a952463cbf836ec70e9026de
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-10-16T23:42:51+08:00 ] 101.226.233.146 /renkang.php/Index/index?signature=5226ff8aaf423885662ff44e6d7729a313a8ff9f&timestamp=1508168571&nonce=1890307275&encrypt_type=aes&msg_signature=11c87ef21b4c25b820f6b25b59044227b46958f7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2017-10-16T23:43:47+08:00 ] 101.233.46.59 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 55 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-10-16T23:44:51+08:00 ] 101.226.233.152 /renkang.php/Index/index?signature=e42ede9db1ff410db7c8c4c89e4da5ec5f8b226b&timestamp=1508168691&nonce=314101550&encrypt_type=aes&msg_signature=c8a1cd55a5eea9c47e0605ee8b18602b7499cfa5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-10-16T23:53:46+08:00 ] 103.7.30.69 /renkang.php/Index/index?signature=0bd5173a3dd46fa166842c61ad14f85747641d1b&timestamp=1508169226&nonce=280377537&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=b75e8a59c0fdfd6fcbceb20eb08bdc08d7b688ce
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 101 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-10-16T23:53:59+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=1265e78007494d33275063decc34b92e5286c8ff&timestamp=1508169238&nonce=602965022&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=11149d15b56733890a07705385cada61ccb024d2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 101 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-10-16T23:56:06+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=059df46c4d86858fa93b3dad61c4c96a6e8fa757&timestamp=1508169365&nonce=1226207278&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=6a1535af8f3db619206923fdf47de05daebf452e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 101 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-10-16T23:56:20+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=79d8cf400874491acfbb5efff6b1dedb8f3c6b24&timestamp=1508169379&nonce=969729590&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=2c79db5e9d322360956570531f57a0d532eaf501
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 101 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-10-16T23:56:35+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=a9178a48cdb619cee266ec0ea1d4186c5ff65225&timestamp=1508169395&nonce=1272611870&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=d24cccbb7cab79016dba0e12d1a4d3860cd5429a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 101 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-10-16T23:56:49+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=48ee681f9ae6a1834eb448dcd138ad132fe70a33&timestamp=1508169408&nonce=559501966&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=42e3304f9771866edd0ad08c68536749d0be105e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 101 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-10-16T23:57:27+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=58fbabba18c1ea81fbbceac69d3609ce3ae18502&timestamp=1508169446&nonce=996963689&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=c6bd69ca754c9f6af687277d9f8da43b0333e500
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 101 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-10-16T23:57:38+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=d71916e04d55bfba4b5ba51582f0e994b8e791b0&timestamp=1508169458&nonce=697432834&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=e00be03fc029b509ac4b10fff3ca92e5b0b1c8bd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 101 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-10-16T23:58:36+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=72e44a4d531fe8daaa4b586215fdb53105cdbe35&timestamp=1508169515&nonce=1870901919&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=d68319d9e77b39f33dff958c4aa5a5f5ad565a4b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 101 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-10-16T23:58:52+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=099d7cd495a4c6008b2d73ac86b4d7b22d01b8a9&timestamp=1508169531&nonce=1175416316&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=ed7beef078400774c55d8836a7e89cbe4375bd3c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 101 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-10-16T23:59:38+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=1b0b822d69004a2cfcf437e78d0978eec235fbd6&timestamp=1508169577&nonce=1312018922&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=cba2a824b3757a3cfe95bd72de5ba4d973535f4c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 101 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-10-16T23:59:50+08:00 ] 103.7.30.68 /renkang.php/Index/index?signature=150e39c286d44207a1ea92281375af3606280e73&timestamp=1508169589&nonce=241900239&openid=o9HmI1iEuxbnYBqQMdkbvp6oENvI&encrypt_type=aes&msg_signature=33d1a77ca6d8f6a6d37924410637005bf6665ef3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 101 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
