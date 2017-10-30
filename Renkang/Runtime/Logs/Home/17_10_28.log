@@ -1,0 +1,15 @@
+[ 2017-10-28T23:20:29+08:00 ] 116.77.159.96 /renkang.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+NOTIC: [8] Undefined index: nonce /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: timestamp /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: echostr /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: signature /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /www/renkang/Renkang/Home/Controller/IndexController.class.php 第 48 行.
+
